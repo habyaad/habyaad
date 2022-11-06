@@ -1,13 +1,13 @@
 ### Hi there 👋
 
 # 💫 About Me:
-🔭 I’m currently working on mobile application development.<br>
-👯 I’m looking to collaborate on flutter and dart projects, we can also phish out your bugs together<br>
+🔭 I’m currently working on mobile application development.<br><br>
+👯 I’m looking to collaborate on flutter and dart projects, we can also phish out your bugs together<br><br>
+🌱 I’m currently learning Angular and Typescript<br><br>
+💬 Ask me about anything computer science<br><br>
+⚡ Fun fact: I really admire my sensei, wolf_dev, an artistic developer. <br>
+            Lest i forgot to tell you, I blunder in chess alot,
 <!--🤝 I’m looking for help with backend services.<br>-->
-🌱 I’m currently learning Angular and Typescript<br>
-💬 Ask me about anything computer science<br>
-⚡ Fun fact: I really admire my sensei, wolf_dev, an artistic developer.  
-            Lest i forgot to tell you, I blunder in chess alot,<br>
 
 
 ## 🌐 Socials:
