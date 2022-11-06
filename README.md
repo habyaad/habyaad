@@ -6,8 +6,8 @@
 <!--🤝 I’m looking for help with backend services.<br>-->
 🌱 I’m currently learning Angular and Typescript<br>
 💬 Ask me about anything computer science<br>
-⚡ Fun fact: I really admire my sensei, wolf_dev, an artistic developer 
-            I blunder in chess alot,<br>
+⚡ Fun fact: I really admire my sensei, wolf_dev, an artistic developer.  
+            Lest i forgot to tell you, I blunder in chess alot,<br>
 
 
 ## 🌐 Socials:
