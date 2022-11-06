@@ -3,7 +3,8 @@
 # 💫 About Me:
 🔭 I’m currently working on mobile application development.<br>
 👯 I’m looking to collaborate on flutter and dart projects, we can also phish out your bugs together<br>
-🤝 I’m looking for help with backend services.<br>🌱 I’m currently learning Angular and Typescript<br>
+<!--🤝 I’m looking for help with backend services.<br>-->
+🌱 I’m currently learning Angular and Typescript<br>
 💬 Ask me about anything computer science<br>
 ⚡ Fun fact: I really admire my sensei, wolf_dev, an artistic developer 
             I blunder in chess alot,<br>
