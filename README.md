@@ -6,7 +6,7 @@
 🌱 I’m currently learning Angular and Typescript<br><br>
 💬 Ask me about anything computer science<br><br>
 ⚡ Fun fact: I really admire my sensei, wolf_dev, an artistic developer. <br>
-            Lest i forgot to tell you, I blunder in chess alot,
+            Lest i forgot to tell you, I blunder in chess alot, impossibility is nonsense.
 <!--🤝 I’m looking for help with backend services.<br>-->
 
 
