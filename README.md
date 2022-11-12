@@ -4,9 +4,9 @@
 🔭 I’m currently working on mobile application development.<br><br>
 👯 I’m looking to collaborate on flutter and dart projects, we can also phish out your bugs together<br><br>
 🌱 I’m currently learning Angular and Typescript<br><br>
-💬 Ask me about anything computer science<br><br>
+💬 I learned to write neat lines, i mean, industry standard.
 ⚡ Fun fact: I really admire my sensei, wolf_dev, an artistic developer. <br>
-            Lest i forgot to tell you, I blunder in chess alot, impossibility is nonsense.
+            Lest i forgot to tell you, I blunder in chess alot, <br>impossibility is nonsense.
 <!--🤝 I’m looking for help with backend services.<br>-->
 
 
